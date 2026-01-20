@@ -292,4 +292,14 @@ export const sites: Site[] = [
 		href: "https://old-panda.com/",
 		thumbnail: "old-panda.com.png",
 	},
+	{
+		title: "云合智联-建设数智新田园",
+		href: "https://www.yunhe.com.cn/",
+		thumbnail: "yunhe.com.cn.png",
+	},
+	{
+		title: "iDiMi-投资、创业、生活",
+		href: "https://www.idimi.com/",
+		thumbnail: "idimi.com.png",
+	},
 ];
